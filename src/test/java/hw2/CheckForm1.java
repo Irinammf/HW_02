@@ -43,6 +43,7 @@ public class CheckForm1 {
         $("#stateCity-wrapper").$(byText("Karnal")).click();
         $("#submit").click();
 
+
 //        CHECK
 
         $(".table-responsive").shouldHave(
